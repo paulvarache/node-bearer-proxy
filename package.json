@@ -1,0 +1,6 @@
+{
+  "name": "node-bearer-proxy",
+  "dependencies": {
+    "http-proxy": "^1.1.4"
+  }
+}
